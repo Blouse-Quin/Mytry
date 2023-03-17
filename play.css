@@ -1,0 +1,10 @@
+#top{
+    display: flex;
+    justify-content: left;
+    width: fit-content;
+    border: 5px solid black;
+    margin-bottom: 1em;
+}
+#top *{
+    margin-right: 3em;
+}
